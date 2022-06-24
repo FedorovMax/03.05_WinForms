@@ -1,0 +1,9 @@
+C:\Users\Максим\source\repos\03.05_WinForms\bin\Debug\03.05_WinForms.exe.config
+C:\Users\Максим\source\repos\03.05_WinForms\bin\Debug\03.05_WinForms.exe
+C:\Users\Максим\source\repos\03.05_WinForms\bin\Debug\03.05_WinForms.pdb
+C:\Users\Максим\source\repos\03.05_WinForms\obj\Debug\_03._05_WinForms.Form1.resources
+C:\Users\Максим\source\repos\03.05_WinForms\obj\Debug\_03._05_WinForms.Properties.Resources.resources
+C:\Users\Максим\source\repos\03.05_WinForms\obj\Debug\03.05_WinForms.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\03.05_WinForms\obj\Debug\03.05_WinForms.exe
+C:\Users\Максим\source\repos\03.05_WinForms\obj\Debug\03.05_WinForms.pdb
+C:\Users\Максим\source\repos\03.05_WinForms\obj\Debug\03.05_WinForms.csprojAssemblyReference.cache
